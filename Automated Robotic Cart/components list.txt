@@ -1,0 +1,18 @@
+1. Arduino Mega 2560 Board
+2. Arduino Uno R3 Board
+3. nRF24L01 Transceiver Modules
+4. BO-motors
+5. L298N Motor Driver
+6. Metal gear servos for the robotic arm
+7. HW-504 Joystick Modules
+8. Rotary Potentiometers
+9. Toggle and slide switches
+10. 12V Battery Pack
+11. Remote battery holder pack
+12. Step-down buck converter / voltage regulator
+13. Ultrasonic Sensor (HC-SR04)
+14. Status indicator LEDs
+15. Cart chassis
+16. Wheels set with Mecanum wheels
+17. 3D printed body for the arm
+18. Resistors, capacitors, wires, connectors, and headers
