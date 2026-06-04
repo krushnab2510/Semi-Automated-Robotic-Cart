@@ -23,18 +23,6 @@ The project integrates mobility and manipulation into a single system, making it
 
 ---
 
-## Project Images
-
-### Final Prototype
-
-![Robotic Cart](pic2.jpeg)
-
-### Additional View
-
-![Robotic Cart Side View](pic1.jpeg)
-
----
-
 ## Hardware Components
 
 | Component | Quantity |
