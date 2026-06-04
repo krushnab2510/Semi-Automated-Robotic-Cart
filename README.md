@@ -1,6 +1,6 @@
 # Automated Robotic Cart
 
-![Automated Robotic Cart](pic2.jpeg)
+![Automated Robotic Cart](Automated%20Robotic%20Cart/pic2.jpeg)
 
 ## Overview
 
